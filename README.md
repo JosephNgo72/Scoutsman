@@ -22,6 +22,6 @@ These are the main tools we used during this project:
 
 ##### Credits
 
-Creating during CodeLabs 2020
+Creating during CodeLabs 2020 Software Engineering Internship
 
 ![Logo](logo.jpg)
