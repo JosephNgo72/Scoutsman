@@ -24,8 +24,4 @@ These are the main tools we used during this project:
 
 Creating during CodeLabs 2020
 
-By: Nicholas Contreras, Daniel Katz, and Joseph Ngo
-
-Mentor: Quentin Geddes
-
 ![Logo](logo.jpg)
